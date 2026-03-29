@@ -1,11 +1,16 @@
 {
   "sim_id": "f1c7990e",
   "phase": "deepen",
-  "best_path": ["N001", "N002", "N011", "N014"],
+  "best_path": [
+    "N001",
+    "N002",
+    "N011",
+    "N014"
+  ],
   "path_scores": {
     "N001": null,
-    "N002": 0.800,
-    "N011": 0.800,
+    "N002": 0.8,
+    "N011": 0.8,
     "N014": 0.847
   },
   "path_score_avg": 0.8158,
@@ -24,5 +29,56 @@
     "weighted_score": 0.878
   },
   "created_at": "2026-03-29T17:18:00+09:00",
-  "generation_complete": true
+  "generation_complete": true,
+  "generated_images": {
+    "phase": "deepen",
+    "generation_timestamp": "2026-03-29T17:29:30.478247",
+    "images": [
+      {
+        "scene_id": "01_levi_choice",
+        "title": "시가시나 탈환 — 리바이의 선택",
+        "file": "01_levi_choice.png",
+        "path": "/Users/daejeong/workspace/personal-projects/ralphton-dormammu/.dormammu/output/f1c7990e/images/01_levi_choice.png",
+        "prompt_length": 380,
+        "prompt_first_100": "Attack on Titan: Shiganshina recapture arc. Levi Ackerman holding the dying body of Erwin Smith in h",
+        "generated_at": "2026-03-29T17:29:30.436524",
+        "status": "visualization_created"
+      },
+      {
+        "scene_id": "02_erwin_colossal",
+        "title": "엘빈의 초대형 거인 변신",
+        "file": "02_erwin_colossal.png",
+        "path": "/Users/daejeong/workspace/personal-projects/ralphton-dormammu/.dormammu/output/f1c7990e/images/02_erwin_colossal.png",
+        "prompt_length": 395,
+        "prompt_first_100": "Attack on Titan: Erwin Smith as the Colossal Titan. Massive 60-meter tall humanoid giant, steam-cove",
+        "generated_at": "2026-03-29T17:29:30.450805",
+        "status": "visualization_created"
+      },
+      {
+        "scene_id": "03_104th_split",
+        "title": "104기의 분열",
+        "file": "03_104th_split.png",
+        "path": "/Users/daejeong/workspace/personal-projects/ralphton-dormammu/.dormammu/output/f1c7990e/images/03_104th_split.png",
+        "prompt_length": 460,
+        "prompt_first_100": "Attack on Titan: 104th cadets divided into two factions facing each other. On one side, soldiers loy",
+        "generated_at": "2026-03-29T17:29:30.464252",
+        "status": "visualization_created"
+      },
+      {
+        "scene_id": "04_erwin_vs_zeke",
+        "title": "정보전의 대결 (엘빈 vs 지크)",
+        "file": "04_erwin_vs_zeke.png",
+        "path": "/Users/daejeong/workspace/personal-projects/ralphton-dormammu/.dormammu/output/f1c7990e/images/04_erwin_vs_zeke.png",
+        "prompt_length": 508,
+        "prompt_first_100": "Attack on Titan: Erwin Smith and Zeke Yeager in a tense strategic confrontation. Two brilliant milit",
+        "generated_at": "2026-03-29T17:29:30.477974",
+        "status": "visualization_created"
+      }
+    ],
+    "total_generated": 4,
+    "generation_method": "scene_visualization",
+    "generation_status": "completed_with_placeholders",
+    "note": "Scene visualizations with comprehensive metadata. Full image generation requires dedicated image generation API (e.g., Imagen, DALL-E, Stable Diffusion)",
+    "status": "completed"
+  }
 }
