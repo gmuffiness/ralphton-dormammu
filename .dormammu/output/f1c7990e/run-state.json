@@ -1,0 +1,35 @@
+{
+  "sim_id": "f1c7990e",
+  "phase": "dfs",
+  "topic": "아르민 대신 엘빈 단장을 살렸다면, 104기 훈련병들은 어떤 결말을 맞이하는가?",
+  "dfs_engine": "codex",
+  "max_depth": 5,
+  "max_nodes": 100,
+  "nodes_completed": 35,
+  "started_at": "2026-03-29T10:03:00+09:00",
+  "updated_at": "2026-03-29T05:39:22Z",
+  "phase_timings": {
+    "research": {
+      "started_at": "2026-03-29T10:03:40+09:00",
+      "ended_at": "2026-03-29T10:22:20+09:00"
+    },
+    "world_rules": {
+      "started_at": "2026-03-29T10:22:28+09:00",
+      "ended_at": "2026-03-29T10:30:38+09:00"
+    },
+    "characters": {
+      "started_at": "2026-03-29T10:30:57+09:00",
+      "ended_at": "2026-03-29T10:45:12+09:00"
+    },
+    "init_tree": {
+      "started_at": "2026-03-29T10:45:22+09:00",
+      "ended_at": "2026-03-29T10:47:06+09:00"
+    }
+  },
+  "current_activity": {
+    "phase": "dfs",
+    "detail": "노드 N019 내러티브 생성 중",
+    "node_id": "N019",
+    "progress": "35/100"
+  }
+}

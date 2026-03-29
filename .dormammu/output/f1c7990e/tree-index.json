@@ -1,0 +1,649 @@
+{
+  "sim_id": "f1c7990e",
+  "topic": "아르민 대신 엘빈 단장을 살렸다면, 104기 훈련병들은 어떤 결말을 맞이하는가?",
+  "max_depth": 5,
+  "nodes": {
+    "N001": {
+      "path": "N001",
+      "depth": 0,
+      "parent": null,
+      "status": "expanded",
+      "composite_score": null,
+      "title": "엘빈 생존 — 아르민 대신 엘빈 단장을 살렸다면?"
+    },
+    "N002": {
+      "path": "N001/N002",
+      "depth": 1,
+      "parent": "N001",
+      "status": "expanded",
+      "composite_score": 0.800,
+      "title": "엘빈의 체스판 — 104기, 말이 되다",
+      "duration_sec": 319,
+      "chars": 1465,
+      "cost": "2.0650",
+      "input_tokens": 835517,
+      "output_tokens": 15530
+    },
+    "N005": {
+      "path": "N001/N002/N005",
+      "depth": 2,
+      "parent": "N002",
+      "status": "pruned",
+      "composite_score": 0,
+      "title": "마레 잠입 — 엘빈의 그림자 작전",
+      "duration_sec": 95,
+      "chars": 1615,
+      "cost": "0.8418",
+      "input_tokens": 210668,
+      "output_tokens": 4070
+    },
+    "N006": {
+      "path": "N001/N002/N006",
+      "depth": 2,
+      "parent": "N002",
+      "status": "pruned",
+      "composite_score": 0,
+      "title": "지크와의 접촉 — 두 전략가의 체스 게임"
+    },
+    "N007": {
+      "path": "N001/N002/N007",
+      "depth": 2,
+      "parent": "N002",
+      "status": "expanded",
+      "composite_score": 0.783,
+      "title": "내부 균열 — 엘빈파 vs 104기의 감정",
+      "duration_sec": 370,
+      "chars": 1806,
+      "cost": "2.3093",
+      "input_tokens": 1146182,
+      "output_tokens": 16377
+    },
+    "N008": {
+      "path": "N001/N002/N007/N008",
+      "depth": 3,
+      "parent": "N007",
+      "status": "expanded",
+      "composite_score": 0.799,
+      "title": "엘빈의 감정 실험 — 전략가의 첫 번째 연설",
+      "duration_sec": 284,
+      "chars": 1849,
+      "cost": "1.6499",
+      "input_tokens": 614220,
+      "output_tokens": 13455
+    },
+    "N011": {
+      "path": "N001/N002/N007/N008/N011",
+      "depth": 4,
+      "parent": "N008",
+      "status": "expanded",
+      "composite_score": 0.800,
+      "title": "에렌의 독자 정보 수집 — 지하실 자료의 비밀 해독",
+      "duration_sec": 334,
+      "chars": 1880,
+      "cost": "2.1462",
+      "input_tokens": 847259,
+      "output_tokens": 14388
+    },
+    "N014": {
+      "path": "N001/N002/N007/N008/N011/N014",
+      "depth": 5,
+      "parent": "N011",
+      "status": "pruned",
+      "composite_score": 0.847,
+      "title": "엘빈의 역추적 — 한지의 자료 복원이 밝히는 에렌의 지크 비전",
+      "duration_sec": 330,
+      "chars": 2041,
+      "cost": "1.9058",
+      "input_tokens": 860667,
+      "output_tokens": 14501
+    },
+    "N015": {
+      "path": "N001/N002/N007/N008/N011/N015",
+      "depth": 5,
+      "parent": "N011",
+      "status": "pruned",
+      "composite_score": 0.605,
+      "title": "미카사의 선택 — 보호 본능과 조직적 충성 사이의 결단",
+      "duration_sec": 335,
+      "chars": 1992,
+      "cost": "1.8931",
+      "input_tokens": 785177,
+      "output_tokens": 14811
+    },
+    "N016": {
+      "path": "N001/N002/N007/N008/N011/N016",
+      "depth": 5,
+      "parent": "N011",
+      "status": "pruned",
+      "composite_score": 0.777,
+      "title": "플로크의 전환점 — 에렌 거절이 촉발하는 예거파 맹아",
+      "duration_sec": 287,
+      "chars": 2005,
+      "cost": "1.7219",
+      "input_tokens": 631491,
+      "output_tokens": 12128
+    },
+    "N012": {
+      "path": "N001/N002/N007/N008/N012",
+      "depth": 4,
+      "parent": "N008",
+      "status": "pruned",
+      "composite_score": 0,
+      "title": "플로크의 제도화 — 엘빈 친위대의 공식 결성"
+    },
+    "N013": {
+      "path": "N001/N002/N007/N008/N013",
+      "depth": 4,
+      "parent": "N008",
+      "status": "pruned",
+      "composite_score": 0,
+      "title": "한지의 에렌 독립 접촉 — 과학자의 중재 실험"
+    },
+    "N009": {
+      "path": "N001/N002/N007/N009",
+      "depth": 3,
+      "parent": "N007",
+      "status": "pruned",
+      "composite_score": 0,
+      "title": "에렌의 지하 — 플로크와의 비밀 동맹 태동"
+    },
+    "N010": {
+      "path": "N001/N002/N007/N010",
+      "depth": 3,
+      "parent": "N007",
+      "status": "pruned",
+      "composite_score": 0,
+      "title": "히스토리아의 도박 — 왕실-조사병단 권력 재편"
+    },
+    "N003": {
+      "path": "N001/N003",
+      "depth": 1,
+      "parent": "N001",
+      "status": "expanded",
+      "composite_score": 0.795,
+      "title": "아르민 없는 세계 — 대화의 소멸과 전쟁의 가속",
+      "duration_sec": 361,
+      "chars": 1659,
+      "cost": "2.3220",
+      "input_tokens": 1254125,
+      "output_tokens": 15542
+    },
+    "N017": {
+      "path": "N001/N003/N017",
+      "depth": 2,
+      "parent": "N003",
+      "status": "expanded",
+      "composite_score": 0.810,
+      "title": "에렌의 단독 행동 — 마레 잠입의 가속과 엘빈 포위망의 균열",
+      "duration_sec": 337,
+      "chars": 1854,
+      "cost": "2.0932",
+      "input_tokens": 810458,
+      "output_tokens": 15254
+    },
+    "N020": {
+      "path": "N001/N003/N017/N020",
+      "depth": 3,
+      "parent": "N017",
+      "status": "expanded",
+      "composite_score": 0.802,
+      "title": "에렌의 마레 잠입과 레벨리오 습격 — 엘빈이 알고도 보낸 전쟁의 시작",
+      "duration_sec": 378,
+      "chars": 1601,
+      "cost": "2.3373",
+      "input_tokens": 1027177,
+      "output_tokens": 18214
+    },
+    "N023": {
+      "path": "N001/N003/N017/N020/N023",
+      "depth": 4,
+      "parent": "N020",
+      "status": "expanded",
+      "composite_score": 0.792,
+      "title": "지크의 이중게임 폭로와 엘빈의 선제 대응",
+      "duration_sec": 423,
+      "chars": 2060,
+      "cost": "2.5812",
+      "input_tokens": 1175738,
+      "output_tokens": 19189
+    },
+    "N056": {
+      "path": "N001/N003/N017/N020/N023/N056",
+      "depth": 5,
+      "parent": "N023",
+      "status": "pending",
+      "composite_score": null,
+      "title": "지크의 척수액 와인 발동과 탈출 — 엘빈 체제의 최대 위기"
+    },
+    "N057": {
+      "path": "N001/N003/N017/N020/N023/N057",
+      "depth": 5,
+      "parent": "N023",
+      "status": "pending",
+      "composite_score": null,
+      "title": "에렌의 독자 탈출과 예거파 봉기 — 삼분 구도의 폭발"
+    },
+    "N058": {
+      "path": "N001/N003/N017/N020/N023/N058",
+      "depth": 5,
+      "parent": "N023",
+      "status": "pending",
+      "composite_score": null,
+      "title": "마레의 보복 선제타격과 강제된 연대 — 외부 위기가 내부 균열을 봉합하는가"
+    },
+    "N024": {
+      "path": "N001/N003/N017/N020/N024",
+      "depth": 4,
+      "parent": "N020",
+      "status": "expanded",
+      "composite_score": 0.752,
+      "title": "에렌의 독주 심화와 예거파 형성",
+      "duration_sec": 319,
+      "chars": 1909,
+      "cost": "2.2349",
+      "input_tokens": 839320,
+      "output_tokens": 15090
+    },
+    "N059": {
+      "path": "N001/N003/N017/N020/N024/N059",
+      "depth": 5,
+      "parent": "N024",
+      "status": "pending",
+      "composite_score": null,
+      "title": "에렌 탈주와 예거파 반란 — 파라디 섬 내전의 시작"
+    },
+    "N060": {
+      "path": "N001/N003/N017/N020/N024/N060",
+      "depth": 5,
+      "parent": "N024",
+      "status": "pending",
+      "composite_score": null,
+      "title": "엘빈의 역전 — 에렌의 미래 기억을 이용한 정치적 반격"
+    },
+    "N061": {
+      "path": "N001/N003/N017/N020/N024/N061",
+      "depth": 5,
+      "parent": "N024",
+      "status": "pending",
+      "composite_score": null,
+      "title": "미카사의 선택 — 아커만의 본능을 넘어서"
+    },
+    "N025": {
+      "path": "N001/N003/N017/N020/N025",
+      "depth": 4,
+      "parent": "N020",
+      "status": "expanded",
+      "composite_score": 0.787,
+      "title": "마레의 보복 연합과 외교적 고립",
+      "duration_sec": 117,
+      "chars": 1967,
+      "cost": "1.0076",
+      "input_tokens": 306557,
+      "output_tokens": 4938
+    },
+    "N062": {
+      "path": "N001/N003/N017/N020/N025/N062",
+      "depth": 5,
+      "parent": "N025",
+      "status": "pending",
+      "composite_score": null,
+      "title": "파라디 내부의 식량·자원 위기와 민중 봉기"
+    },
+    "N063": {
+      "path": "N001/N003/N017/N020/N025/N063",
+      "depth": 5,
+      "parent": "N025",
+      "status": "pending",
+      "composite_score": null,
+      "title": "키요미의 이중 외교와 히즈루의 배신"
+    },
+    "N064": {
+      "path": "N001/N003/N017/N020/N025/N064",
+      "depth": 5,
+      "parent": "N025",
+      "status": "pending",
+      "composite_score": null,
+      "title": "마레 연합군의 선제 정찰 공격과 파라디 해안 방어전"
+    },
+    "N021": {
+      "path": "N001/N003/N017/N021",
+      "depth": 3,
+      "parent": "N017",
+      "status": "expanded",
+      "composite_score": 0.818,
+      "title": "엘빈의 선제 포획 — 에렌 구속과 지크 함정 작전",
+      "duration_sec": 360,
+      "chars": 1684,
+      "cost": "2.2676",
+      "input_tokens": 966342,
+      "output_tokens": 16283
+    },
+    "N026": {
+      "path": "N001/N003/N017/N021/N026",
+      "depth": 4,
+      "parent": "N021",
+      "status": "expanded",
+      "composite_score": 0.771,
+      "title": "예거파의 봉기와 엘빈의 이중 포위",
+      "duration_sec": 400,
+      "chars": 1891,
+      "cost": "2.4520",
+      "input_tokens": 1171848,
+      "output_tokens": 18949
+    },
+    "N029": {
+      "path": "N001/N003/N017/N021/N026/N029",
+      "depth": 5,
+      "parent": "N026",
+      "status": "pending",
+      "composite_score": null,
+      "title": "초대형 거인의 억지 — 엘빈의 제한적 변신과 에렌의 항복 교섭"
+    },
+    "N030": {
+      "path": "N001/N003/N017/N021/N026/N030",
+      "depth": 5,
+      "parent": "N026",
+      "status": "pending",
+      "composite_score": null,
+      "title": "지크의 파라디 상륙과 삼파전의 개막"
+    },
+    "N031": {
+      "path": "N001/N003/N017/N021/N026/N031",
+      "depth": 5,
+      "parent": "N026",
+      "status": "pending",
+      "composite_score": null,
+      "title": "마레 선제 침공과 강제 휴전 — 공동의 적 앞에 선 내전의 일시 중지"
+    },
+    "N027": {
+      "path": "N001/N003/N017/N021/N027",
+      "depth": 4,
+      "parent": "N021",
+      "status": "expanded",
+      "composite_score": 0.723,
+      "title": "지크의 파라디 상륙과 엘빈의 함정 작전 발동",
+      "duration_sec": 459,
+      "chars": 2133,
+      "cost": "2.7373",
+      "input_tokens": 1421866,
+      "output_tokens": 20799
+    },
+    "N032": {
+      "path": "N001/N003/N017/N021/N027/N032",
+      "depth": 5,
+      "parent": "N027",
+      "status": "pending",
+      "composite_score": null,
+      "title": "마레 함대의 도착과 강제 휴전"
+    },
+    "N033": {
+      "path": "N001/N003/N017/N021/N027/N033",
+      "depth": 5,
+      "parent": "N027",
+      "status": "pending",
+      "composite_score": null,
+      "title": "리바이의 독단 — 지크 처단 시도와 거인화 연쇄"
+    },
+    "N034": {
+      "path": "N001/N003/N017/N021/N027/N034",
+      "depth": 5,
+      "parent": "N027",
+      "status": "pending",
+      "composite_score": null,
+      "title": "에렌의 도 각성 — 접촉 없는 시조의 힘"
+    },
+    "N028": {
+      "path": "N001/N003/N017/N021/N028",
+      "depth": 4,
+      "parent": "N021",
+      "status": "expanded",
+      "composite_score": 0.803,
+      "title": "미카사의 선택 — 에렌 탈환인가, 에렌의 의지 존중인가",
+      "duration_sec": 709,
+      "chars": 2193,
+      "cost": "3.2598",
+      "input_tokens": 1692690,
+      "output_tokens": 26117
+    },
+    "N035": {
+      "path": "N001/N003/N017/N021/N028/N035",
+      "depth": 5,
+      "parent": "N028",
+      "status": "expanded",
+      "composite_score": 0.815,
+      "title": "미카사의 결단 — 아커만의 본능을 넘어선 최초의 개인으로서의 선택",
+      "duration_sec": 458,
+      "chars": 2311,
+      "cost": "2.7942",
+      "input_tokens": 1605434,
+      "output_tokens": 21046
+    },
+    "N036": {
+      "path": "N001/N003/N017/N021/N028/N036",
+      "depth": 5,
+      "parent": "N028",
+      "status": "pruned",
+      "composite_score": 0.766,
+      "title": "에렌의 도 접촉 — 감방 안에서의 정신적 각성",
+      "duration_sec": 318,
+      "chars": 2222,
+      "cost": "1.9204",
+      "input_tokens": 863605,
+      "output_tokens": 14377
+    },
+    "N037": {
+      "path": "N001/N003/N017/N021/N028/N037",
+      "depth": 5,
+      "parent": "N028",
+      "status": "expanded",
+      "composite_score": 0.821,
+      "title": "엘빈의 이중 포위 — 히스토리아의 제도적 공세와 지크 상륙의 동시 도래",
+      "duration_sec": 441,
+      "chars": 2116,
+      "cost": "2.5765",
+      "input_tokens": 1085831,
+      "output_tokens": 20060
+    },
+    "N022": {
+      "path": "N001/N003/N017/N022",
+      "depth": 3,
+      "parent": "N017",
+      "status": "expanded",
+      "composite_score": 0.810,
+      "title": "히스토리아의 반격 — 왕정과 군부의 정면충돌",
+      "duration_sec": 330,
+      "chars": 2041,
+      "cost": "2.1379",
+      "input_tokens": 708940,
+      "output_tokens": 15157
+    },
+    "N038": {
+      "path": "N001/N003/N017/N022/N038",
+      "depth": 4,
+      "parent": "N022",
+      "status": "expanded",
+      "composite_score": 0.782,
+      "title": "지크의 파라디 도착과 네 세력의 연쇄 충돌",
+      "duration_sec": 288,
+      "chars": 2281,
+      "cost": "2.4891",
+      "input_tokens": 1490263,
+      "output_tokens": 11614
+    },
+    "N041": {
+      "path": "N001/N003/N017/N022/N038/N041",
+      "depth": 5,
+      "parent": "N038",
+      "status": "pending",
+      "composite_score": null,
+      "title": "엘빈의 제한적 지축 — 초대형 거인 변신의 외교적 파장"
+    },
+    "N042": {
+      "path": "N001/N003/N017/N022/N038/N042",
+      "depth": 5,
+      "parent": "N038",
+      "status": "pending",
+      "composite_score": null,
+      "title": "에렌-지크 접촉 성공과 도에서의 삼파전"
+    },
+    "N043": {
+      "path": "N001/N003/N017/N022/N038/N043",
+      "depth": 5,
+      "parent": "N038",
+      "status": "pending",
+      "composite_score": null,
+      "title": "내전 후 파라디의 분단 — 두 진영의 형성"
+    },
+    "N039": {
+      "path": "N001/N003/N017/N022/N039",
+      "depth": 4,
+      "parent": "N022",
+      "status": "expanded",
+      "composite_score": 0.756,
+      "title": "히스토리아의 임신 선언과 왕정의 전략적 자율권 확보",
+      "duration_sec": 524,
+      "chars": 2168,
+      "cost": "3.0558",
+      "input_tokens": 1774472,
+      "output_tokens": 23961
+    },
+    "N044": {
+      "path": "N001/N003/N017/N022/N039/N044",
+      "depth": 5,
+      "parent": "N039",
+      "status": "pending",
+      "composite_score": null,
+      "title": "엘빈의 결단 — '전략의 포로'로부터의 탈출과 에렌 직접 통제 시도"
+    },
+    "N045": {
+      "path": "N001/N003/N017/N022/N039/N045",
+      "depth": 5,
+      "parent": "N039",
+      "status": "pending",
+      "composite_score": null,
+      "title": "한지의 윤리적 반란 — 태아 분석 보고서의 선택적 은폐"
+    },
+    "N046": {
+      "path": "N001/N003/N017/N022/N039/N046",
+      "depth": 5,
+      "parent": "N039",
+      "status": "pending",
+      "composite_score": null,
+      "title": "미카사의 독자 추적 — 아커만 감각이 폭로하는 삼각축의 실체"
+    },
+    "N040": {
+      "path": "N001/N003/N017/N022/N040",
+      "depth": 4,
+      "parent": "N022",
+      "status": "expanded",
+      "composite_score": 0.760,
+      "title": "엘빈의 베르톨트 기억 해독과 마레 선제 외교 구상",
+      "duration_sec": 367,
+      "chars": 2252,
+      "cost": "2.5635",
+      "input_tokens": 1311424,
+      "output_tokens": 15764
+    },
+    "N047": {
+      "path": "N001/N003/N017/N022/N040/N047",
+      "depth": 5,
+      "parent": "N040",
+      "status": "pending",
+      "composite_score": null,
+      "title": "외교 실패와 엘빈의 전략적 각성 — 아르민의 꿈과의 결별"
+    },
+    "N048": {
+      "path": "N001/N003/N017/N022/N040/N048",
+      "depth": 5,
+      "parent": "N040",
+      "status": "pending",
+      "composite_score": null,
+      "title": "에렌의 마레 단독 잠입과 레벨리오 기습"
+    },
+    "N049": {
+      "path": "N001/N003/N017/N022/N040/N049",
+      "depth": 5,
+      "parent": "N040",
+      "status": "pending",
+      "composite_score": null,
+      "title": "베르톨트 기억의 역류와 라이너와의 비밀 교섭"
+    },
+    "N018": {
+      "path": "N001/N003/N018",
+      "depth": 2,
+      "parent": "N003",
+      "status": "pruned",
+      "composite_score": 0,
+      "title": "지크와의 접촉 — 엘빈 vs 지크, 두 전략가의 체스 게임",
+      "duration_sec": 7,
+      "chars": 1882,
+      "cost": "0.0000",
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "N019": {
+      "path": "N001/N003/N019",
+      "depth": 2,
+      "parent": "N003",
+      "status": "pending",
+      "composite_score": null,
+      "title": "코니의 폭주 — 어머니를 되돌리기 위한 절박한 시도"
+    },
+    "N004": {
+      "path": "N001/N004",
+      "depth": 1,
+      "parent": "N001",
+      "status": "pending",
+      "composite_score": null,
+      "title": "예거파 없는 파라디 — 엘빈 체제와 104기의 분열"
+    }
+  },
+  "N053": {
+    "path": "N001/N003/N017/N021/N028/N037/N053",
+    "depth": 6,
+    "parent": "N037",
+    "status": "pending",
+    "composite_score": null,
+    "title": "에렌-지크 접촉의 순간 — 좌표 발동과 도의 세계에서의 삼자 대면"
+  },
+  "N054": {
+    "path": "N001/N003/N017/N021/N028/N037/N054",
+    "depth": 6,
+    "parent": "N037",
+    "status": "pending",
+    "composite_score": null,
+    "title": "예거파의 봉기 — 플로크의 쿠데타와 엘빈 체제의 내부 전쟁"
+  },
+  "N055": {
+    "path": "N001/N003/N017/N021/N028/N037/N055",
+    "depth": 6,
+    "parent": "N037",
+    "status": "pending",
+    "composite_score": null,
+    "title": "엘빈의 최후의 도박 — 제한적 지축 시위를 통한 외교적 억지력 확보"
+  },
+  "N050": {
+    "path": "N001/N003/N017/N021/N028/N035/N050",
+    "depth": 6,
+    "parent": "N035",
+    "status": "pending",
+    "composite_score": null,
+    "title": "지크의 도착과 좌표의 시험"
+  },
+  "N051": {
+    "path": "N001/N003/N017/N021/N028/N035/N051",
+    "depth": 6,
+    "parent": "N035",
+    "status": "pending",
+    "composite_score": null,
+    "title": "예거파의 봉기와 체제 내전"
+  },
+  "N052": {
+    "path": "N001/N003/N017/N021/N028/N035/N052",
+    "depth": 6,
+    "parent": "N035",
+    "status": "pending",
+    "composite_score": null,
+    "title": "히스토리아의 왕정 독립 선언과 삼각 외교"
+  }
+}

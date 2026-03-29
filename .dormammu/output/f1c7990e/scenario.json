@@ -1,0 +1,42 @@
+{
+  "sim_id": "f1c7990e",
+  "topic": "아르민 대신 엘빈 단장을 살렸다면, 104기 훈련병들은 어떤 결말을 맞이하는가?",
+  "source": {"title": "진격의 거인", "media_type": "만화/애니메이션"},
+  "protagonists": ["엘빈 스미스", "에렌 예거", "미카사 아커만", "104기 훈련병 전체"],
+  "tone": "original",
+  "scope": "full",
+  "scope_detail": null,
+  "constraints": [],
+  "curiosity_points": ["104기 훈련병들의 생존율 변화"],
+  "exploration_style": "best_first",
+  "dfs_engine": "claude",
+  "scale": "micro",
+  "world_rules": [
+    "9개 거인의 능력과 계승 규칙은 원작 그대로 유지",
+    "시조 유미르의 존재와 좌표의 힘은 원작 설정 준수",
+    "엘디아인의 거인화 능력과 기억 계승 메커니즘 유지",
+    "마레와 엘디아의 역사적 갈등 구도 유지",
+    "부전의 맹세는 원작과 동일하게 작동"
+  ],
+  "evaluation_weights": {
+    "character_fidelity": 0.25,
+    "audience_resonance": 0.20,
+    "emergence": 0.20,
+    "narrative_flow": 0.15,
+    "plausibility": 0.20
+  },
+  "heartbeat": {
+    "enabled": true,
+    "interval_min": 10,
+    "total_hours": 6,
+    "count": 36
+  },
+  "auto_deepen": true,
+  "image_generation": {
+    "enabled": true,
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-image-preview",
+    "quality": "standard"
+  },
+  "created_at": "2026-03-29T00:00:00Z"
+}

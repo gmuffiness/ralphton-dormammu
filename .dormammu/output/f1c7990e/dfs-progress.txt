@@ -1,0 +1,356 @@
+# Dormammu DFS Progress
+Started: 2026-03-29T01:47:15Z
+Config: min_nodes=100, max_depth=5
+---
+## 10:52:34 — N002 (depth 1) [5m19s]
+- Status: expanded | Score: 0.800 | Children: 3
+- Title: 엘빈의 체스판 — 104기, 말이 되다
+- Cost: $2.0650 | Tokens: 835517in + 15530out | Turns: 23
+- Content: 1465 chars | Context: 10724 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 0m | Cumulative cost: $2.0650
+---
+## 10:54:10 — N005 (depth 2) [1m35s]
+- Status: pruned | Score: 0 | Children: 0
+- Title: 마레 잠입 — 엘빈의 그림자 작전
+- Cost: $0.8418 | Tokens: 210668in + 4070out | Turns: 5
+- Content: 1615 chars | Context: 14276 bytes
+- Validation: eval_fail | OOC penalty: 0 | Template retries: 0 | OOC refines: 0
+- Total elapsed: 5m | Cumulative cost: $2.9068
+---
+## 10:54:20 — N006 FAILED (template) [0m9s]
+---
+## 10:54:29 — N006 FAILED (template) [0m9s]
+---
+## 10:54:37 — N006 FAILED (template) [0m8s]
+---
+## 10:54:46 — N006 FAILED (template) [0m9s]
+---
+## 10:54:54 — N006 FAILED (template) [0m8s]
+---
+## 11:31:18 — N007 (depth 2) [6m10s]
+- Status: expanded | Score: 0.783 | Children: 3
+- Title: 내부 균열 — 엘빈파 vs 104기의 감정
+- Cost: $2.3093 | Tokens: 1146182in + 16377out | Turns: 24
+- Content: 1806 chars | Context: 16744 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 0m | Cumulative cost: $2.3093
+---
+## 11:36:03 — N008 (depth 3) [4m44s]
+- Status: expanded | Score: 0.799 | Children: 3
+- Title: 엘빈의 감정 실험 — 전략가의 첫 번째 연설
+- Cost: $1.6499 | Tokens: 614220in + 13455out | Turns: 17
+- Content: 1849 chars | Context: 18642 bytes
+- Validation: pass | OOC penalty: 0 | Template retries: 0 | OOC refines: 0
+- Total elapsed: 6m | Cumulative cost: $3.9592
+---
+## 11:41:38 — N011 (depth 4) [5m34s]
+- Status: expanded | Score: 0.800 | Children: 3
+- Title: 에렌의 독자 정보 수집 — 지하실 자료의 비밀 해독
+- Cost: $2.1462 | Tokens: 847259in + 14388out | Turns: 16
+- Content: 1880 chars | Context: 23137 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 10m | Cumulative cost: $6.1054
+---
+## 11:47:09 — N014 (depth 5) [5m30s]
+- Status: pruned | Score: 0.847 | Children: 0
+- Title: 엘빈의 역추적 — 한지의 자료 복원이 밝히는 에렌의 지크 비전
+- Cost: $1.9058 | Tokens: 860667in + 14501out | Turns: 15
+- Content: 2041 chars | Context: 27679 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 16m | Cumulative cost: $8.0112
+---
+## 11:52:45 — N015 (depth 5) [5m35s]
+- Status: pruned | Score: 0.605 | Children: 0
+- Title: 미카사의 선택 — 보호 본능과 조직적 충성 사이의 결단
+- Cost: $1.8931 | Tokens: 785177in + 14811out | Turns: 13
+- Content: 1992 chars | Context: 30631 bytes
+- Validation: pass | OOC penalty: -0.5 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 22m | Cumulative cost: $9.9043
+---
+## 11:57:33 — N016 (depth 5) [4m47s]
+- Status: pruned | Score: 0.777 | Children: 0
+- Title: 플로크의 전환점 — 에렌 거절이 촉발하는 예거파 맹아
+- Cost: $1.7219 | Tokens: 631491in + 12128out | Turns: 12
+- Content: 2005 chars | Context: 33619 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 27m | Cumulative cost: $11.6262
+---
+## 11:57:44 — N012 FAILED (template) [0m10s]
+---
+## 11:57:53 — N012 FAILED (template) [0m9s]
+---
+## 11:58:03 — N012 FAILED (template) [0m9s]
+---
+## 11:58:13 — N012 FAILED (template) [0m10s]
+---
+## 11:58:22 — N012 FAILED (template) [0m9s]
+---
+## 12:11:08 — N003 (depth 1) [6m1s]
+- Status: expanded | Score: 0.795 | Children: 3
+- Title: 아르민 없는 세계 — 대화의 소멸과 전쟁의 가속
+- Cost: $2.3220 | Tokens: 1254125in + 15542out | Turns: 26
+- Content: 1659 chars | Context: 12699 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 0m | Cumulative cost: $2.3220
+---
+## 12:16:46 — N017 (depth 2) [5m37s]
+- Status: expanded | Score: 0.810 | Children: 3
+- Title: 에렌의 단독 행동 — 마레 잠입의 가속과 엘빈 포위망의 균열
+- Cost: $2.0932 | Tokens: 810458in + 15254out | Turns: 18
+- Content: 1854 chars | Context: 14788 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 6m | Cumulative cost: $4.4152
+---
+## 12:23:05 — N020 (depth 3) [6m18s]
+- Status: expanded | Score: 0.802 | Children: 3
+- Title: 에렌의 마레 잠입과 레벨리오 습격 — 엘빈이 알고도 보낸 전쟁의 시작
+- Cost: $2.3373 | Tokens: 1027177in + 18214out | Turns: 23
+- Content: 1601 chars | Context: 19317 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 11m | Cumulative cost: $6.7525
+---
+## 12:29:06 — N021 (depth 3) [6m0s]
+- Status: expanded | Score: 0.818 | Children: 3
+- Title: 엘빈의 선제 포획 — 에렌 구속과 지크 함정 작전
+- Cost: $2.2676 | Tokens: 966342in + 16283out | Turns: 20
+- Content: 1684 chars | Context: 21465 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 18m | Cumulative cost: $9.0201
+---
+## 12:35:31 — N026 (depth 4) [6m24s]
+- Status: expanded | Score: 0.771 | Children: 3
+- Title: 예거파의 봉기와 엘빈의 이중 포위
+- Cost: $2.4151 | Tokens: 1150863in + 17513out | Turns: 24
+- Content: 1955 chars | Context: 23377 bytes
+- Validation: pass | OOC penalty: -0.2 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 24m | Cumulative cost: $11.4352
+---
+## 12:41:14 — N026 (depth 4) [6m40s]
+- Status: expanded | Score: 0.771 | Children: 3
+- Title: 예거파의 봉기와 엘빈의 이중 포위
+- Cost: $2.4520 | Tokens: 1171848in + 18949out | Turns: 21
+- Content: 1891 chars | Context: 23377 bytes
+- Validation: pass | OOC penalty: -0.2 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 0m | Cumulative cost: $2.4520
+---
+## 12:44:11 — N027 (depth 4) [8m39s]
+- Status: expanded | Score: 0.725 | Children: 3
+- Title: 지크의 파라디 상륙과 엘빈의 함정 작전 발동
+- Cost: $2.3225 | Tokens: 1007354in + 18520out | Turns: 24
+- Content: 2195 chars | Context: 25990 bytes
+- Validation: pass | OOC penalty: -0.3 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 30m | Cumulative cost: $13.7577
+---
+## 12:48:54 — N027 (depth 4) [7m39s]
+- Status: expanded | Score: 0.723 | Children: 3
+- Title: 지크의 파라디 상륙과 엘빈의 함정 작전 발동
+- Cost: $2.7373 | Tokens: 1421866in + 20799out | Turns: 28
+- Content: 2133 chars | Context: 25923 bytes
+- Validation: pass | OOC penalty: -0.3 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 6m | Cumulative cost: $5.1893
+---
+## 12:50:08 — N028 (depth 4) [5m56s]
+- Status: expanded | Score: 0.779 | Children: 3
+- Title: 미카사의 선택 — 에렌 탈환인가, 에렌의 의지 존중인가
+- Cost: $2.4747 | Tokens: 1254329in + 15553out | Turns: 25
+- Content: 2083 chars | Context: 28693 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 39m | Cumulative cost: $16.2324
+---
+## 12:55:39 — N022 (depth 3) [5m30s]
+- Status: expanded | Score: 0.810 | Children: 3
+- Title: 히스토리아의 반격 — 왕정과 군부의 정면충돌
+- Cost: $2.1379 | Tokens: 708940in + 15157out | Turns: 19
+- Content: 2041 chars | Context: 23825 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 45m | Cumulative cost: $18.3703
+---
+## 13:00:44 — N028 (depth 4) [11m49s]
+- Status: expanded | Score: 0.803 | Children: 3
+- Title: 미카사의 선택 — 에렌 탈환인가, 에렌의 의지 존중인가
+- Cost: $3.2598 | Tokens: 1692690in + 26117out | Turns: 29
+- Content: 2193 chars | Context: 28693 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 14m | Cumulative cost: $8.4491
+---
+## 13:02:01 — N038 (depth 4) [6m21s]
+- Status: expanded | Score: 0.782 | Children: 3
+- Title: 지크의 파라디 도착과 네 세력의 연쇄 충돌
+- Cost: $2.3827 | Tokens: 949360in + 18900out | Turns: 21
+- Content: 1960 chars | Context: 24291 bytes
+- Validation: pass | OOC penalty: -0.2 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 50m | Cumulative cost: $20.7530
+---
+## 13:05:33 — N038 (depth 4) [4m48s]
+- Status: expanded | Score: 0.782 | Children: 3
+- Title: 지크의 파라디 도착과 네 세력의 연쇄 충돌
+- Cost: $2.4891 | Tokens: 1490263in + 11614out | Turns: 26
+- Content: 2281 chars | Context: 24291 bytes
+- Validation: pass | OOC penalty: -0.2 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 26m | Cumulative cost: $10.9382
+---
+## 13:09:28 — N039 (depth 4) [7m25s]
+- Status: expanded | Score: 0.768 | Children: 3
+- Title: 히스토리아의 임신 선언과 왕정의 전략적 자율권 확보
+- Cost: $2.3332 | Tokens: 941794in + 11588out | Turns: 23
+- Content: 2176 chars | Context: 27197 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 56m | Cumulative cost: $23.0862
+---
+## 13:14:18 — N039 (depth 4) [8m44s]
+- Status: expanded | Score: 0.756 | Children: 3
+- Title: 히스토리아의 임신 선언과 왕정의 전략적 자율권 확보
+- Cost: $3.0558 | Tokens: 1774472in + 23961out | Turns: 33
+- Content: 2168 chars | Context: 27811 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 31m | Cumulative cost: $13.9940
+---
+## 13:16:07 — N040 (depth 4) [6m38s]
+- Status: expanded | Score: 0.760 | Children: 3
+- Title: 엘빈의 베르톨트 기억 해독과 마레 선제 외교 구상
+- Cost: $2.5228 | Tokens: 1102166in + 18686out | Turns: 23
+- Content: 2262 chars | Context: 31088 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 64m | Cumulative cost: $25.6090
+---
+## 13:20:26 — N040 (depth 4) [6m7s]
+- Status: expanded | Score: 0.760 | Children: 3
+- Title: 엘빈의 베르톨트 기억 해독과 마레 선제 외교 구상
+- Cost: $2.5635 | Tokens: 1311424in + 15764out | Turns: 24
+- Content: 2252 chars | Context: 31205 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 39m | Cumulative cost: $16.5575
+---
+## 13:21:51 — N035 (depth 5) [5m43s]
+- Status: pruned | Score: 0.815 | Children: 0
+- Title: 미카사의 결단 — 아커만의 본능을 넘어선 최초의 개인으로서의 선택
+- Cost: $1.8398 | Tokens: 858721in + 14631out | Turns: 15
+- Content: 2196 chars | Context: 28762 bytes
+- Validation: pass | OOC penalty: -0.2 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 71m | Cumulative cost: $27.4488
+---
+## 13:27:10 — N036 (depth 5) [5m18s]
+- Status: pruned | Score: 0.766 | Children: 0
+- Title: 에렌의 도 접촉 — 감방 안에서의 정신적 각성
+- Cost: $1.9204 | Tokens: 863605in + 14377out | Turns: 15
+- Content: 2222 chars | Context: 31852 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 76m | Cumulative cost: $29.3692
+---
+## 13:28:06 — N035 (depth 5) [7m38s]
+- Status: expanded | Score: 0.815 | Children: 0
+- Title: 미카사의 결단 — 아커만의 본능을 넘어선 최초의 개인으로서의 선택
+- Cost: $2.7942 | Tokens: 1605434in + 21046out | Turns: 28
+- Content: 2311 chars | Context: 28762 bytes
+- Validation: pass | OOC penalty: -0.2 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 45m | Cumulative cost: $19.3517
+---
+## 13:33:04 — N037 (depth 5) [5m52s]
+- Status: pruned | Score: 0.778 | Children: 0
+- Title: 엘빈의 이중 포위 — 히스토리아의 제도적 공세와 지크 상륙의 동시 도래
+- Cost: $2.1449 | Tokens: 1177548in + 15485out | Turns: 19
+- Content: 2082 chars | Context: 35591 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 82m | Cumulative cost: $31.5141
+---
+## 13:35:28 — N037 (depth 5) [7m21s]
+- Status: expanded | Score: 0.821 | Children: 0
+- Title: 엘빈의 이중 포위 — 히스토리아의 제도적 공세와 지크 상륙의 동시 도래
+- Cost: $2.5765 | Tokens: 1085831in + 20060out | Turns: 20
+- Content: 2116 chars | Context: 35593 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 53m | Cumulative cost: $21.9282
+---
+## 13:39:17 — N023 (depth 4) [6m12s]
+- Status: expanded | Score: 0.745 | Children: 3
+- Title: 지크의 이중게임 폭로와 엘빈의 선제 대응
+- Cost: $2.2408 | Tokens: 884142in + 15700out | Turns: 19
+- Content: 1946 chars | Context: 23200 bytes
+- Validation: pass | OOC penalty: -0.2 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 87m | Cumulative cost: $33.7549
+---
+## 13:42:32 — N023 (depth 4) [7m3s]
+- Status: expanded | Score: 0.792 | Children: 3
+- Title: 지크의 이중게임 폭로와 엘빈의 선제 대응
+- Cost: $2.5812 | Tokens: 1175738in + 19189out | Turns: 25
+- Content: 2060 chars | Context: 23200 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 60m | Cumulative cost: $24.5094
+---
+## 13:45:09 — N024 (depth 4) [5m51s]
+- Status: expanded | Score: 0.752 | Children: 3
+- Title: 에렌의 독주 심화와 예거파 형성
+- Cost: $2.1625 | Tokens: 714498in + 15748out | Turns: 14
+- Content: 1910 chars | Context: 25714 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 94m | Cumulative cost: $35.9174
+---
+## 13:47:52 — N024 (depth 4) [5m19s]
+- Status: expanded | Score: 0.752 | Children: 3
+- Title: 에렌의 독주 심화와 예거파 형성
+- Cost: $2.2349 | Tokens: 839320in + 15090out | Turns: 18
+- Content: 1909 chars | Context: 26316 bytes
+- Validation: pass | OOC penalty: -0.1 | Template retries: 0 | OOC refines: 1
+- Total elapsed: 67m | Cumulative cost: $26.7443
+---
+## 13:49:10 — N025 (depth 4) [3m59s]
+- Status: expanded | Score: 0.787 | Children: 3
+- Title: 마레의 보복 연합과 외교적 고립
+- Cost: $1.7130 | Tokens: 681444in + 10598out | Turns: 13
+- Content: 1967 chars | Context: 29033 bytes
+- Validation: pass | OOC penalty: 0 | Template retries: 0 | OOC refines: 0
+- Total elapsed: 100m | Cumulative cost: $37.6304
+---
+## 13:49:50 — N025 (depth 4) [1m57s]
+- Status: expanded | Score: 0.787 | Children: 3
+- Title: 마레의 보복 연합과 외교적 고립
+- Cost: $1.0076 | Tokens: 306557in + 4938out | Turns: 8
+- Content: 1967 chars | Context: 29033 bytes
+- Validation: pass | OOC penalty: 0 | Template retries: 0 | OOC refines: 0
+- Total elapsed: 73m | Cumulative cost: $27.7519
+---
+## 13:50:00 — N018 FAILED (template) [0m9s]
+---
+## 13:50:09 — N018 FAILED (template) [0m9s]
+---
+## 13:50:19 — N018 FAILED (template) [0m10s]
+---
+## 13:50:29 — N018 FAILED (template) [0m10s]
+---
+## 13:50:36 — N018 (depth 2) [1m25s]
+- Status: pruned | Score: 0 | Children: 0
+- Title: 지크와의 접촉 — 엘빈 vs 지크, 두 전략가의 체스 게임
+- Cost: $0.4189 | Tokens: 52463in + 3640out | Turns: 3
+- Content: 1882 chars | Context: 17238 bytes
+- Validation: eval_fail | OOC penalty: 0 | Template retries: 0 | OOC refines: 0
+- Total elapsed: 104m | Cumulative cost: $38.0493
+---
+## 13:50:36 — N018 (depth 2) [0m7s]
+- Status: pruned | Score: 0 | Children: 0
+- Title: 지크와의 접촉 — 엘빈 vs 지크, 두 전략가의 체스 게임
+- Cost: $0.0000 | Tokens: 0in + 0out | Turns: 2
+- Content: 1882 chars | Context: 17238 bytes
+- Validation: eval_fail | OOC penalty: 0 | Template retries: 0 | OOC refines: 0
+- Total elapsed: 75m | Cumulative cost: $27.7519
+---
+## 13:50:46 — N019 FAILED (template) [0m9s]
+---
+## 13:50:47 — N019 FAILED (template) [0m10s]
+---
+## 13:50:56 — N019 FAILED (template) [0m9s]
+---
+## 13:50:56 — N019 FAILED (template) [0m9s]
+---
+## 13:51:05 — N019 FAILED (template) [0m9s]
+---
+## 13:51:06 — N019 FAILED (template) [0m9s]
+---
+## 13:51:14 — N019 FAILED (template) [0m9s]
+---
+## 13:51:15 — N019 FAILED (template) [0m9s]
+---
+## 13:51:24 — N019 FAILED (template) [0m10s]
+---
+## 13:51:24 — N019 FAILED (template) [0m9s]
+---
